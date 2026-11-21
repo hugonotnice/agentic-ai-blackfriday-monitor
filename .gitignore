@@ -1,0 +1,31 @@
+# Environment & secrets (never commit)
+.env
+.env.*
+!.env.example
+harness.env
+*.local.env
+
+# Runtime databases & logs
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.db
+storage/
+logs/
+
+# Python & virtual environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS build artifacts & OS metadata
+.DS_Store
+*.app/
+macos/PriceBuddyBar
+macos/icon.iconset/
+macos/*.png
+
+# User-specific product catalog overrides
+baselines.json

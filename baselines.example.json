@@ -1,0 +1,44 @@
+[
+  {
+    "product_id": 1,
+    "slug": "jbl-tune-780nc",
+    "category": "Headphone",
+    "model_name": "JBL Tune 780NC",
+    "normal_price": 519.00,
+    "target_price": 375.00,
+    "min_drop_pct": 18.0,
+    "min_price_floor": 220.00,
+    "match_groups": [["jbl"], ["780nc", "780 nc", "tune 780"]],
+    "exclude_terms": ["almofada", "earpad", "cabo", "case", "estojo", "770nc", "720bt"],
+    "primary_url": "https://www.amazon.com.br/dp/B0GVP9G4SJ",
+    "active": 1
+  },
+  {
+    "product_id": 2,
+    "slug": "aoc-u27b3a",
+    "category": "Monitor",
+    "model_name": "AOC U27B3A 27 4K Monitor",
+    "normal_price": 1299.00,
+    "target_price": 919.00,
+    "min_drop_pct": 18.0,
+    "min_price_floor": 600.00,
+    "match_groups": [["aoc"], ["u27b3a"]],
+    "exclude_terms": ["suporte", "cabo", "pelicula", "f80n"],
+    "primary_url": "https://www.amazon.com.br/dp/B0FGDKYGFS",
+    "active": 1
+  },
+  {
+    "product_id": 3,
+    "slug": "oontz-angle-solo",
+    "category": "Speaker",
+    "model_name": "OontZ Angle Solo Portable Speaker",
+    "normal_price": 109.90,
+    "target_price": 67.90,
+    "min_drop_pct": 18.0,
+    "min_price_floor": 40.00,
+    "match_groups": [["oontz"], ["angle solo"]],
+    "exclude_terms": ["capa", "case", "estojo", "cabo", "suporte"],
+    "primary_url": "https://www.amazon.com.br/dp/B07DPVF8DQ",
+    "active": 1
+  }
+]
